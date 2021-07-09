@@ -7,7 +7,11 @@ if game.PlaceId == 286090429 then -- Asenal
 if game.PlaceId == 2116452049 then -- Steve
        loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/steveee/main/README.md' ))()
     else
+if game.PlaceId == 2753915549 then -- BF old world
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/BF/main/README.md' ))()
+    else  
                 game.Players.LocalPlayer:Kick("กูไปบอกตอนไหนว่ามีเกมนี้")
                 end
                 end
             end
+        end
