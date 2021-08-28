@@ -1,20 +1,7 @@
-if game.PlaceId == 2788229376 then -- Da-hood
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/Dahood/main/dahood.lua' ))()
-    else
-if game.PlaceId == 286090429 then -- Asenal
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/Asenalex/main/README.md' ))()
-    else
-if game.PlaceId == 2116452049 then -- Steve
-       loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/steveee/main/README.md' ))()
-    else
-if game.PlaceId == 2753915549 then -- BF old world
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/BF/main/README.md' ))()
-    else  
+
 if game.PlaceId == 6299805723 then -- Anime Fighters Simulator
     loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/Anime-Fighters-Simulator/main/Completeeeeeeeeeeeeeeeeeeeeee'))()
 else  
-                game.Players.LocalPlayer:Kick("กูไปบอกตอนไหนว่ามีเกมนี้")
-                end
-                end
-            end
-        end
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/webhook/main/complete.lua
+end
+               
