@@ -10,6 +10,9 @@ if game.PlaceId == 2116452049 then -- Steve
 if game.PlaceId == 2753915549 then -- BF old world
         loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/BF/main/README.md' ))()
     else  
+if game.PlaceId == 6299805723 then -- Anime Fighters Simulator
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/Anime-Fighters-Simulator/main/Completeeeeeeeeeeeeeeeeeeeeee'))()
+else  
                 game.Players.LocalPlayer:Kick("กูไปบอกตอนไหนว่ามีเกมนี้")
                 end
                 end
