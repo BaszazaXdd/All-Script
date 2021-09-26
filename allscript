@@ -1,7 +1,11 @@
 
 if game.PlaceId == 6299805723 then -- Anime Fighters Simulator
     loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/Anime-Fighters-Simulator/main/Completeeeeeeeeeeeeeeeeeeeeee'))()
+    else
+if game.PlaceId == 4520749081 then -- King
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/KL/main/README.md'))()
 else  
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/webhook/main/complete.lua
+       
+ game.Players.LocalPlayer:Kick("Game Not Support")
 end
-               
+           end
