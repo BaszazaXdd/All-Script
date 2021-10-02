@@ -4,8 +4,12 @@ if game.PlaceId == 6299805723 then -- Anime Fighters Simulator
     else
 if game.PlaceId == 4520749081 then -- King
     loadstring(game:HttpGet('https://raw.githubusercontent.com/BaszazaXdd/KL/main/README.md'))()
+    else
+if game.PlaceId == 6846458508 then -- A Universal Time
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/BaszazaXdd/A-Universal-Time/main/bakaaaaa.lua"))()
 else  
        
  game.Players.LocalPlayer:Kick("Game Not Support")
 end
            end
+        end
