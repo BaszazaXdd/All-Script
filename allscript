@@ -8,8 +8,12 @@ if game.PlaceId == 4520749081 then -- King
 if game.PlaceId == 6846458508 then -- A Universal Time
  loadstring(game:HttpGet("https://raw.githubusercontent.com/BaszazaXdd/A-Universal-Time/main/bakaaaaa.lua"))()
 else  
+if game.PlaceId == 1499872953 then -- Bokuno
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaszazaXdd/Bokuno/main/README.md"))()
+else
        
  game.Players.LocalPlayer:Kick("Game Not Support")
 end
            end
+        end
         end
